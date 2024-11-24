@@ -9,3 +9,6 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
+                    - name: ChatGPT CodeReviewer
+                uses: anc95/ChatGPT-CodeReview@v1.0.19
+            
